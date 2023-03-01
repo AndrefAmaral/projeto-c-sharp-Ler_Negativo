@@ -1,0 +1,13 @@
+C:\dev\LerNegativo\bin\Debug\netcoreapp3.1\LerNegativo.exe
+C:\dev\LerNegativo\bin\Debug\netcoreapp3.1\LerNegativo.deps.json
+C:\dev\LerNegativo\bin\Debug\netcoreapp3.1\LerNegativo.runtimeconfig.json
+C:\dev\LerNegativo\bin\Debug\netcoreapp3.1\LerNegativo.runtimeconfig.dev.json
+C:\dev\LerNegativo\bin\Debug\netcoreapp3.1\LerNegativo.dll
+C:\dev\LerNegativo\bin\Debug\netcoreapp3.1\LerNegativo.pdb
+C:\dev\LerNegativo\obj\Debug\netcoreapp3.1\LerNegativo.csprojAssemblyReference.cache
+C:\dev\LerNegativo\obj\Debug\netcoreapp3.1\LerNegativo.AssemblyInfoInputs.cache
+C:\dev\LerNegativo\obj\Debug\netcoreapp3.1\LerNegativo.AssemblyInfo.cs
+C:\dev\LerNegativo\obj\Debug\netcoreapp3.1\LerNegativo.csproj.CoreCompileInputs.cache
+C:\dev\LerNegativo\obj\Debug\netcoreapp3.1\LerNegativo.dll
+C:\dev\LerNegativo\obj\Debug\netcoreapp3.1\LerNegativo.pdb
+C:\dev\LerNegativo\obj\Debug\netcoreapp3.1\LerNegativo.genruntimeconfig.cache
